@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Lambert
+<div align="center">
+  <img src="Cinnamoroll.gif" alt="Cinnamoroll" width="100">
+</div>
 
 ### 🔮 AI Full-stack Dev. Focus on Blockchain.
 
