@@ -5,7 +5,7 @@
 
 ### 🔮 AI Full-stack Dev. Focus on Blockchain.
 
-* 🔭 **Current Role**: Full-satck Dev at YouMind
+* 🔭 **Current Role**: Full-stack Dev at YouMind
 * ⚛️ **I'm Doing**: Crypto Quant, Blockchian Dev in DeFi, Entrepreneurship
 * 🌐 **Website**: [mossgarden.me](https://mossgarden.me)
 * 🐦 **Twitter**: [@0xArabesque](https://x.com/0xArabesque)
