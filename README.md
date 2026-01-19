@@ -1,13 +1,13 @@
-# Hi, I'm Lambert, a Lifelong Meditator 🧘
+# 👋 Hi, I'm Lambert
 <div align="center">
   <img src="Cinnamoroll.gif" alt="Cinnamoroll" width="100">
 </div>
 
-### 🔮 AI Full-stack Dev. Focus on Blockchain.
+### 🧘 Lifelong Meditator
 
 * 🔭 **Current Role**: Dev Head in HK Family Office
 * ⚛️ **I'm Doing**: Crypto Quant, DeFi, AI, Entrepreneurship
-* 🌐 **Website**: [mossgarden.me](https://lambertlin.com)
+* 🌐 **Website**: [lambertlin.com](https://lambertlin.com)
 * 🐦 **Twitter**: [@0xArabesque](https://x.com/0xArabesque)
 * 💻 **Languages**: TypeScript, Rust, Solidity, Python
 
