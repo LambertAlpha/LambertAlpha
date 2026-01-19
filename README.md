@@ -1,16 +1,15 @@
-# 👋 Hi, I'm Lambert
+# 👋 Hi, I'm Lambert, a Lifelong Meditator 🧘
 <div align="center">
   <img src="Cinnamoroll.gif" alt="Cinnamoroll" width="100">
 </div>
 
 ### 🔮 AI Full-stack Dev. Focus on Blockchain.
 
-* 🔭 **Current Role**: Full-stack Dev at YouMind
-* ⚛️ **I'm Doing**: Crypto Quant, Blockchian Dev in DeFi, Entrepreneurship
-* 🌐 **Website**: [mossgarden.me](https://mossgarden.me)
+* 🔭 **Current Role**: Dev Head in HK Family Office
+* ⚛️ **I'm Doing**: Crypto Quant, DeFi, AI, Entrepreneurship
+* 🌐 **Website**: [mossgarden.me](https://lambertlin.com)
 * 🐦 **Twitter**: [@0xArabesque](https://x.com/0xArabesque)
 * 💻 **Languages**: TypeScript, Rust, Solidity, Python
-* 🗼 **MBTI**: INTJ
 
 ## 💜 About Me
 
