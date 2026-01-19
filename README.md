@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lambert, a Lifelong Meditator 🧘
+# Hi, I'm Lambert, a Lifelong Meditator 🧘
 <div align="center">
   <img src="Cinnamoroll.gif" alt="Cinnamoroll" width="100">
 </div>
