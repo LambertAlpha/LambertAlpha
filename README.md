@@ -15,7 +15,7 @@
 
 * 🎸 4 Years electronic guitar player in school band
 * 🎵 Classical / FKJ / Debussy / Rachmaninoff / Bach
-* 🎀 New Chinese clothing show designers / Ballet🩰
+* 🎀 New Chinese clothing show designers / Ballet 🩰
 * 📚 Lifelong learner
 * 🌸 I like Cinnamoroll !
 
