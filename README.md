@@ -6,16 +6,16 @@
 ### 🧘 Lifelong Meditator
 
 * 🔭 **Current Role**: Dev Head in HK Family Office
-* ⚛️ **I'm Doing**: Crypto Quant, DeFi, AI, Entrepreneurship
+* ⚛️ **I'm Doing**: Quant, DeFi, AI, Entrepreneurship
 * 🌐 **Website**: [lambertlin.com](https://lambertlin.com)
 * 🐦 **Twitter**: [@0xArabesque](https://x.com/0xArabesque)
-* 💻 **Languages**: TypeScript, Rust, Solidity, Python
+* 💻 **Languages**: Python, TypeScript, Rust, Solidity
 
 ## 💜 About Me
 
 * 🎸 4 Years electronic guitar player in school band
-* 🎵 Classical / Neo-Soul Music 🐬 FKJ/Debussy/Rachmaninoff
-* 🎀 New Chinese clothing show designers and planners
+* 🎵 Classical / FKJ / Debussy / Rachmaninoff / Bach
+* 🎀 New Chinese clothing show designers / Ballet🩰
 * 📚 Lifelong learner
 * 🌸 I like Cinnamoroll !
 
