@@ -5,7 +5,7 @@
 
 ### 🧘 Lifelong Meditator
 
-* 🔭 **Current Role**: Dev Head in HK Family Office
+* 🔭 **Current Role**: Dev in HK Family Office
 * ⚛️ **I'm Doing**: Quant, DeFi, AI, Entrepreneurship
 * 🌐 **Website**: [lambertlin.com](https://lambertlin.com)
 * 🐦 **Twitter**: [@0xArabesque](https://x.com/0xArabesque)
