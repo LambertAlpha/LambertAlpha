@@ -2,7 +2,7 @@
 
 Data Science undergraduate at **The Chinese University of Hong Kong, Shenzhen**
 
-Visiting student at **UC Berkeley**, 2026–2027 (non-degree)
+Visiting student at **UC Berkeley**, 2026–2027
 
 I am interested in how language agents learn from interaction, generalize to new tasks,
 and retain existing capabilities. My current focus is the relationship between feedback,
@@ -24,7 +24,6 @@ learning and auxiliary objectives for cross-sectional return prediction.
 | Project | Focus | Start here |
 | --- | --- | --- |
 | [Alpha-Hunter](https://github.com/LambertAlpha/Alpha-Hunter) | Temporal factor autoencoder, baseline comparisons, and ablation studies. | Research overview, archived report, and reproducibility status. |
-| [Agarwood Fund Kit](https://github.com/LambertAlpha/agarwood-fund-kit) | Reusable components extracted from a fund dashboard I built as its sole engineer. | Architecture, calculation logic, and tests. |
 | [Skills](https://github.com/LambertAlpha/skills) | Reusable tools and workflows for AI-assisted work. | Practical engineering utilities. |
 
 ## Questions I want to study
