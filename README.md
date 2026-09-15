@@ -23,6 +23,7 @@ learning and auxiliary objectives for cross-sectional return prediction.
 
 | Project | Focus | Start here |
 | --- | --- | --- |
+| [SLAI-Training](https://github.com/Mikezzr/SLAI-Training/tree/main) | Post-training collaboration at SLAI. | Collaboration repository (private; access restricted). |
 | [Alpha-Hunter](https://github.com/LambertAlpha/Alpha-Hunter) | Temporal factor autoencoder, baseline comparisons, and ablation studies. | Research overview, archived report, and reproducibility status. |
 | [Skills](https://github.com/LambertAlpha/skills) | Reusable tools and workflows for AI-assisted work. | Practical engineering utilities. |
 
