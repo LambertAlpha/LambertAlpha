@@ -23,7 +23,7 @@ learning and auxiliary objectives for cross-sectional return prediction.
 
 | Project | Focus | Start here |
 | --- | --- | --- |
-| [SLAI-T-Rex](https://github.com/SLAI-AITP/SLAI-T-Rex) | Post-training collaboration at SLAI. | [Code](https://github.com/SLAI-AITP/SLAI-T-Rex) · [Models on ModelScope](https://www.modelscope.cn/profile/SLAIAITP) |
+| [SLAI-T-Rex](https://github.com/SLAI-AITP/SLAI-T-Rex) | Contributed to post-training work at SLAI. | [Team code](https://github.com/SLAI-AITP/SLAI-T-Rex) · [Team models on ModelScope](https://www.modelscope.cn/profile/SLAIAITP) |
 | [Alpha-Hunter](https://github.com/LambertAlpha/Alpha-Hunter) | Temporal factor autoencoder, baseline comparisons, and ablation studies. | Research overview, archived report, and reproducibility status. |
 | [Skills](https://github.com/LambertAlpha/skills) | Reusable tools and workflows for AI-assisted work. | Practical engineering utilities. |
 
