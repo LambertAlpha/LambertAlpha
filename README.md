@@ -26,14 +26,11 @@ learning and auxiliary objectives for cross-sectional return prediction.
 | [SLAI-T-Rex](https://github.com/SLAI-AITP/SLAI-T-Rex) | Contributed to post-training work at SLAI. | [Team code](https://github.com/SLAI-AITP/SLAI-T-Rex) · [Team models on ModelScope](https://www.modelscope.cn/profile/SLAIAITP) |
 | [Alpha-Hunter](https://github.com/LambertAlpha/Alpha-Hunter) | Temporal factor autoencoder, baseline comparisons, and ablation studies. | Research overview, archived report, and reproducibility status. |
 
-## Questions I want to study
+## Current interests
 
-- How can verifiable feedback improve a language agent's behavior on unseen tasks?
-- How do we distinguish reasoning failures from tool-execution and evaluation failures?
-- When an agent adapts to a new task, what helps it preserve earlier capabilities?
-
-My engineering background spans Python, PyTorch, TypeScript, and full-stack systems.
-I enjoy turning an ambiguous failure into a concrete experiment and an inspectable artifact.
+- **Reinforcement learning**: RL for language agents, and how reward design shapes what they learn.
+- **Infrastructure**: training and evaluation tooling that makes experiments reproducible and debuggable.
+- **NLP**: language models and agents that act through tools.
 
 [Website](https://lambertlin.com) · [LinkedIn](https://www.linkedin.com/in/lambertlin/) · [X](https://x.com/0xArabesque)
 
