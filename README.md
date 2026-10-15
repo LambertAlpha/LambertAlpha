@@ -32,7 +32,7 @@ learning and auxiliary objectives for cross-sectional return prediction.
 - **Infrastructure**: training and evaluation tooling that makes experiments reproducible and debuggable.
 - **NLP**: language models and agents that act through tools.
 
-[Website](https://lambertlin.com) · [LinkedIn](https://www.linkedin.com/in/lambertlin/) · [X](https://x.com/0xArabesque)
+[Website](https://lambertlin.com) · [LinkedIn](https://www.linkedin.com/in/lambertlin/)
 
 ## Beyond research
 
