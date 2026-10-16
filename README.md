@@ -34,7 +34,7 @@ learning and auxiliary objectives for cross-sectional return prediction.
 
 ## Beyond research
 
-Guitar and music, meditation, philosophy, and Neo-Chinese fashion design.
+Guitar and music, meditation, philosophy, and Writing.
 A few favorites: FKJ, Debussy, Rachmaninoff, and Bach. And Cinnamoroll.
 
 <img src="Cinnamoroll.gif" alt="Cinnamoroll" width="100">
